@@ -87,7 +87,7 @@ Meu nome é Felipe Gil, sou natural do Rio Grande do Sul. Atualmente, estou curs
 
 ### 📊 Estatísticas
 
-<p>
+<!--<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
