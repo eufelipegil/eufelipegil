@@ -100,7 +100,6 @@ Meu nome é Felipe Gil, sou natural do Rio Grande do Sul. Atualmente, estou curs
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eufelipegil&
-theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eufelipegil&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7"
   />
 </p>
