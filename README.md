@@ -4,24 +4,6 @@
 
 Meu nome é Felipe Gil, sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Uniamérica Descomplica. Sou apaixonado por tecnologia e gosto de compartilhar meu conhecimento através do meu "[Git Hub](https://github.com/eufelipegil)", onde publico os projetos web da faculdade e de cursos que realizo em paralelo. Também estou presente no "[LinkedIn](https://www.linkedin.com/in/eufelipegil/)", onde compartilho minhas experiências e conecto-me com outros profissionais da área.
 
-<p align="left">
-    </a> 
-    <a href="https://github.com/eufelipegil?tab=repositories">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://github.com/eufelipegil?tab=repositories&sort=stargazers"
-        />
-    </a>
-    <a href="https://github.com/eufelipegil?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/eufelipegil?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
