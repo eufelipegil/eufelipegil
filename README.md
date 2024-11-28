@@ -84,8 +84,7 @@ Meu nome é Felipe Gil, sou natural do Rio Grande do Sul. Atualmente, estou curs
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
+<!--### 📊 Estatísticas
 
 <!--<p>
   <img 
