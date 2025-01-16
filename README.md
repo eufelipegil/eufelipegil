@@ -84,21 +84,8 @@ Meu nome é Felipe Gil, sou natural do Rio Grande do Sul. Atualmente, estou curs
 
 <br/>
 <br/>
-<!--### 📊 Estatísticas
+📊 Estatísticas
+<p> <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=eufelipegil&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+<img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eufelipegil&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" /> </p>
+Espero que isso ajude! Se precisar de mais alguma coisa, estou por aqui. 😉
 
-<!--<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=eufelipegil&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eufelipegil&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7"
-  />
-</p>
